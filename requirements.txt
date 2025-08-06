@@ -1,0 +1,12 @@
+dotenv
+langchain
+langchain-groq
+langchain_community
+duckduckgo-search
+wikipedia
+ddgs
+google-search-results
+chromadb
+sentence-transformers
+pypdf
+streamlit
